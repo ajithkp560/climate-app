@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-> It's a Vue copycat project of https://github.com/alfred-jayaprakash/weather-app which made using express.
+> It's a Vue copycat of project https://github.com/alfred-jayaprakash/weather-app which made using express authored by Alfred Jayaprakash.
 
 ## Build Setup
 
