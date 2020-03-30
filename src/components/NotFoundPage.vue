@@ -27,7 +27,7 @@ export default {
     return {
       pageTitle: '404 Not Found',
       header: '404 Not Found',
-      author: 'AJITH KP',
+      author: 'AJ',
       message: 'Page is Not Found'
     }
   },
