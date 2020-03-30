@@ -28,7 +28,7 @@ export default {
     return {
       pageTitle: 'About Page',
       header: 'About Page',
-      author: 'AJITH KP',
+      author: 'AJ',
       message: 'This site was created by AKP to display weather information from DarkSky'
     }
   },
