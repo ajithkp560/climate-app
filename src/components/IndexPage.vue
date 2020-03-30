@@ -33,7 +33,7 @@ export default {
     return {
       pageTitle: 'Climate App',
       header: 'My Climate App',
-      author: 'AJITH KP',
+      author: 'AJ',
       location: '',
       place_name: 'From JavaScript',
       latitude: '',
