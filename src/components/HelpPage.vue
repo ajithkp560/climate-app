@@ -27,7 +27,7 @@ export default {
     return {
       pageTitle: 'Help Page',
       header: 'Help Page',
-      author: 'AJITH KP',
+      author: 'AJ',
       message: 'This is the help message that i want to display in the screen'
     }
   },
