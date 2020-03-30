@@ -29,7 +29,7 @@ export default {
       pageTitle: 'About Page',
       header: 'About Page',
       author: 'AJ',
-      message: 'This site was created by AKP to display weather information from DarkSky'
+      message: 'This site was created by AJ to display weather information from DarkSky'
     }
   },
   components: {
